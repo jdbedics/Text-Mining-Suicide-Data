@@ -1,5 +1,5 @@
 
-# List of Availalbe Websites for Review
+# List of Availalbe Websites for Review for Text Study
 
 Website Name | URL          | General Topics (Suicide/Self-harm/Support)
 ------------ | ------------- | -------------------------------
