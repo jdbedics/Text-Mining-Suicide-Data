@@ -3,7 +3,6 @@
 
 Website Name | URL          | General Topics (Suicide/Self-harm/Support)
 ------------ | ------------- | -------------------------------
-
 Teenline | https://teenlineonline.org/board/ | Suicide, Self-Harm, Substance Abuse, many others
 DailyStrength | https://www.dailystrength.org/groups?all=true | Self-harm, many others
 SupportGroups | https://online.supportgroups.com/ | Self-harm, suicide, many others
