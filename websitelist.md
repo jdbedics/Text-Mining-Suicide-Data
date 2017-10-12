@@ -12,5 +12,5 @@ The NSHN Forum| http://www.nshn.co.uk/forum/ | Suicide, self-harm, others| Open 
 CrazyBoards | http://www.crazyboards.org/forums/index.php? | Self-harm, many others| Okay
 PSYCH Forums |https://www.psychforums.com/general-topics/ | Self-harm, many others| Cannot access through anonymous proxy
 Suicide Forum |https://www.suicideforum.com/community/forums/help-me-i-need-to-talk-to-someone.43/ | For people that need to talk to people.| no sharing of content on other websites
-Depression Chat Rooms |http://www.depression-chat-rooms.org/ | Depression and Anxiety Peer Support| okay
+Depression Chat Rooms |http://www.depression-chat-rooms.org/ | Depression and Anxiety Peer Support| ok
 
